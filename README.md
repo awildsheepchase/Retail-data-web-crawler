@@ -1,5 +1,5 @@
 # Retail-data-web-crawler
-## Data collection and data cleaning for Taiwan retail industry brands.
+### Data collection and data cleaning for Taiwan retail industry brands
 
 - Tien Ren Ming Cha: Ten Ren Tea Co., Ltd., founded in 1953, is a Taiwanese tea distribution company.
 - 7-11: Uni-President Chain Store (commonly known as Uni-President) is a Taiwanese chain of convenience stores. As an affiliate of the Uni-President Group, it holds the perpetual franchise rights for 7-Eleven in Taiwan and operates Taiwan's 7-Eleven stores through a franchise model.
